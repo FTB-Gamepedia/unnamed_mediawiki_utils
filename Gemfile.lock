@@ -1,0 +1,22 @@
+GIT
+  remote: https://github.com/FTB-Gamepedia/MediaWiki-Butt-Ruby.git
+  revision: 26d170a398ff6df998bed761f3e7bf7418e0b782
+  specs:
+    mediawiki-butt (0.11.1)
+      httpclient (~> 2.8)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httpclient (2.8.0)
+    minitest (5.9.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mediawiki-butt!
+  minitest (~> 5.8)
+
+BUNDLED WITH
+   1.11.2
